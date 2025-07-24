@@ -1,0 +1,24 @@
+# Build folders
+/build/
+/bin/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+*.code-workspace
+.idea/
+
+# Compiled files
+*.exe
+*.out
+*.obj
+*.o
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
