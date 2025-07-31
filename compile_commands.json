@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/user_1/Documents/Projects/SFML/Space_War/build",
+  "command": "/usr/bin/c++  -I/home/user_1/Documents/Projects/SFML/Space_War/include -std=gnu++17 -o CMakeFiles/Space_War.dir/src/main.cpp.o -c /home/user_1/Documents/Projects/SFML/Space_War/src/main.cpp",
+  "file": "/home/user_1/Documents/Projects/SFML/Space_War/src/main.cpp"
+}
+]
